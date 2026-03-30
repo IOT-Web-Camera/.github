@@ -1,5 +1,7 @@
 # Sodium Vision
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 Sodium Vision est une plateforme permettant la collecte, la gestion et la redistribution de flux vidéo en temps réel. Le système facilite également la communication bidirectionnelle entre les clients et les appareils émetteurs (caméras).
 
 ---
@@ -113,7 +115,5 @@ cd Docker
 # Pour lancer le service
 docker-compose up -d --build
 ```
-## Badges
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
